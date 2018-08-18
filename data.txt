@@ -1,3 +1,4 @@
 Name: Cris
 Age: 24
 Favorite Color: Yellow
+favorite harry potter character: Sirius Black
